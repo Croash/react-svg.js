@@ -1,5 +1,7 @@
-import Container from './Container'
+import Containers from './Containers'
+import Elements from './Elements'
 
 export default {
-  ...Container
+  Containers,
+  Elements
 }
