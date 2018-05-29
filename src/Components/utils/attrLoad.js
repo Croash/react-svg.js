@@ -1,5 +1,4 @@
 const situationDefault = [
-  // 'delay',
   'x',
   'cy',
   'clear',
@@ -13,7 +12,8 @@ const situationDefault = [
   'size',
   'center',
   'width',
-  'font'
+  'font',
+  'text'
 ]
 
 let attrLoad = (sitList) => (ins,attrConfig) => {
