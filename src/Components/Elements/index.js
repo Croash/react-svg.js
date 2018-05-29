@@ -5,6 +5,7 @@ import Line from './Line'
 import Path from './Path'
 import Polygon from './Polygon'
 import Rect from './Rect'
+import Text from './Text'
 
 export default {
   Circle,
@@ -13,5 +14,6 @@ export default {
   Line,
   Path,
   Polygon,
-  Rect
+  Rect,
+  Text
 }
