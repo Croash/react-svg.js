@@ -12,7 +12,8 @@ const situationDefault = [
   'load',
   'size',
   'center',
-  'width'
+  'width',
+  'font'
 ]
 
 let attrLoad = (sitList) => (ins,attrConfig) => {
