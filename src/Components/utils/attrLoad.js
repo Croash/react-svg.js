@@ -13,7 +13,8 @@ const situationDefault = [
   'center',
   'width',
   'font',
-  'text'
+  'text',
+  'opacity'
 ]
 
 let attrLoad = (sitList) => (ins,attrConfig) => {
